@@ -3,3 +3,8 @@ pip install pymysql
 pip install oracledb
 
 git clone.git
+
+pagwbdjango1/webchula
+/home/aleale/pagwbdjango1/webchula/television/static
+
+/home/aleale/.venv
